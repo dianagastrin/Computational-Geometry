@@ -1,6 +1,6 @@
 *[Page Number 3::Chapter 1::Section 1.1]*
 # Slow Convex Hull 
-## Explenation
+## Purpose
 Find the convex hull of a set S.
 ## Complexity
 For n vertics O(n^3)

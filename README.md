@@ -1,6 +1,6 @@
 ### In progress
 # Computational Geometry
-Implementation (and beyond...) of pseudo Code and examples from the book- [Algorithms and Applications, Third Edition](http://www.cs.uu.nl/geobook/)  
+Implementation of pseudo codes from the book- [Algorithms and Applications, Third Edition](http://www.cs.uu.nl/geobook/)  
  <img src="http://www.cs.uu.nl/geobook/cover3.jpg" width="150"/>
 
 # Includes

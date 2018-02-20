@@ -8,8 +8,9 @@ For n vertics O(n^3)
 <img src="https://i.imgur.com/i18lsgZ.png" width="250">
 
 ## Problems
-Slow and not robust, small errors in the computations can make it fail in completely unexpected ways as shown here
-<img src="https://i.imgur.com/5BpsXDA.jpg" width="150">
+1. Very slow
+2. Not robust, small errors in the computations can make it fail in completely unexpected ways as shown here
+    <img src="https://i.imgur.com/5BpsXDA.jpg" width="150">
 
 ## Algorithm
 TBD

@@ -9,7 +9,7 @@ Implementation of pseudo codes from the book- [Algorithms and Applications, Thir
 	2. **Convex Hull** *[Page 6::Chapter 1::Section 1.1]*
 
 ## Contact
-If you have any suggestions or corrections, please contant me:
+If you have any suggestions or corrections, please contact me at:
 gastrindiana@gmail.com
 
 Enjoy!

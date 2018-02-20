@@ -1,7 +1,3 @@
-# computational-geometry
-Algorithms and Applications, Third Edition
-http://www.cs.uu.nl/geobook/
-
 # Slow Convex Hull
 Pseudocode from [Page Number 3::Chapter 1::Section 1.1]
 

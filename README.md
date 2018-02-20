@@ -1,7 +1,11 @@
 ### In progress
+
 # Computational Geometry
+<p align="center">
+<img src="http://www.cs.uu.nl/geobook/cover3.jpg" width="150"/>
+</p>
+
 Implementation of pseudo codes from the book- [Algorithms and Applications, Third Edition](http://www.cs.uu.nl/geobook/)  
- <img src="http://www.cs.uu.nl/geobook/cover3.jpg" width="150"/>
 
 # Includes
 1. **Convex Hull Algorithms**

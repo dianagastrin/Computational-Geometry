@@ -1,6 +1,6 @@
 # Slow Convex Hull
 Pseudocode from [Page Number 3::Chapter 1::Section 1.1]
-## Explanation
+## Explenation
 Find the convex hull of a set S.
 ## Algorithm
 TBD

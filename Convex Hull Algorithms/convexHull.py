@@ -1,5 +1,5 @@
 '''
-Implementation of the pseudocode from [Page Number 3::Chapter 1::Section 1.1]
+Implementation of the pseudocode from [Page 6::Chapter 1::Section 1.1]
 of "Computational Geometry" book by Mark de Berg, Otfried Cheong, Marc van Kreveld,
 Mark Overmars
 By Diana Gastrin \\ gastrindiana@gmail.com
